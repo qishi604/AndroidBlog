@@ -9,3 +9,4 @@ https://github.com/JesusFreke/smali
 # 2016 Learning
 ### [Android Testing] (https://google.github.io/android-testing-support-library/)
 ### [NDK JNI] 
+### [chromium] (http://www.chromium.org/developers/how-tos/get-the-code)
