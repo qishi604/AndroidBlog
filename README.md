@@ -24,5 +24,5 @@ https://github.com/JesusFreke/smali
 
 # CSDN Blog
 ### [guolin](http://blog.csdn.net/guolin_blog)
-
+### [luoshengyang](http://blog.csdn.net/luoshengyang/)
 
