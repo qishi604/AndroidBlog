@@ -26,5 +26,10 @@ https://github.com/JesusFreke/smali
 ### [guolin](http://blog.csdn.net/guolin_blog)
 ### [luoshengyang](http://blog.csdn.net/luoshengyang/)
 
+
 # Other Blog
 ### (liuweipeng)[http://mindhacks.cn]
+
+# Github
+### [RxJavaBlog](https://github.com/lzyzsd/Awesome-RxJava)
+### [TranslateApp](https://github.com/maoruibin/TranslateApp)
