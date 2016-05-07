@@ -15,6 +15,7 @@ https://github.com/JesusFreke/smali
 
 # Android skill
 ### [Android studio for experts] (https://www.youtube.com/watch?v=Y2GC6P5hPeA)
+### [tricky](http://trickyandroid.com/#blog)
 
 # Android developers video
 ### [android developers] (https://www.youtube.com/user/androiddevelopers/playlists)
