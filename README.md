@@ -44,4 +44,5 @@ https://github.com/JesusFreke/smali
 ### [Using Project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit?hl=zh-CN&forcehl=1)
 
 # movie
-[kat](https://kat.cr/) 
+### [kat](https://kat.cr/) 
+### [衣柜字幕](http://subhd.com/)
