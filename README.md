@@ -2,6 +2,7 @@
 ### [The square corner] (https://corner.squareup.com)
 ### [Android tool] (http://tools.android.com/tech-docs/tools-attributes)
 ### [shadowsocks] (https://shadowsocks.org/en/download/clients.html)
+### [developerphil](http://www.developerphil.com/android-studio-tips-tricks-moving-around/)
 
 # Decode
 ### [dalvik_opcodes] (http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
